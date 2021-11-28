@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["data/event"],{"8e88":function(s){s.exports=JSON.parse('{"cn":{"act13side_zone1":{"valid":{"startTs":1635739200,"endTs":1637524799}}},"tw":{"act15d5_zone1":{"valid":{"startTs":1636615800,"endTs":1637179199}}},"us":{},"jp":{},"kr":{}}')}}]);
